@@ -1,6 +1,6 @@
 ### Hi, I'm Zain 👋
 
-I build & teach AI stuff | ai/ml @ Together AI | ℕΨ @ UofT Engineering | previosly worked on: vector databases, data science, lecturer, digital health tech
+I build & teach AI stuff | AI/ML @ Together AI | ℕΨ @ UofT Engineering | previously worked on: vector databases, data science, lecturing, digital health tech
 
 Best way to reach me is via DM on LinkedIn/X.
 
